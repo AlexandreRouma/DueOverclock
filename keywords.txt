@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For ezLCD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DueOverclock	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setCoreFrequency	KEYWORD2
+setCoreMultiplier	KEYWORD2
+getCoreFrequency	KEYWORD2
+getCoreMultiplier	KEYWORD2
+OCDelay	KEYWORD2
+OCDelayMicroseconds	KEYWORD2
+delayToOC	KEYWORD2
+delayFromOC	KEYWORD2
+OCMillis	KEYWORD2
+OCMicros	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+DEFAULT_FRQ	LITERAL1
